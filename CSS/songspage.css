@@ -1,0 +1,66 @@
+body {
+    background-image: url('../images/hd-wallpaper-g68ca35279_1920.jpg');
+    background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+  
+  }
+
+.albums_songs_heading{
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.albums_songs_heading img{
+    margin-top: 200px;
+}
+
+.albums_songs_heading p{
+    margin-top:200px;
+}
+
+.index_albums_songs{
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 100px;
+    font-size: 30px;
+    margin-left: 200px;
+    color: white;
+    }
+    
+.albums_songs{
+    width:85%;
+    border-spacing: 10px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.albums_songs td{
+    column-gap:30px;
+}
+
+.artist{
+    display: flex;
+}
+
+.title{
+    color:white;
+    font-size: 30px;
+    }
+
+.duration{
+    color:white;
+    font-size: 30px;
+    } 
+    
+.add{
+    width:100px;
+    height:30px;
+    border-radius: 40%;
+    background-color: red;
+    color:white
+}
