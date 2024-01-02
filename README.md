@@ -5,6 +5,10 @@
 STEPS TO RUN THE WEBSITE:
 1. Give execution permissions to 'run.sh' script and run ./run.sh in termianl.
 
+Contributors:
+1. Garvit Gupta : [GarvitGuptaOfficial](https://github.com/GarvitGuptaofficial)
+2. Aditya Garg : [Adityagargiiith](https://github.com/Adityagargiiith)
+
 
 # Project structure and Instruction
 
